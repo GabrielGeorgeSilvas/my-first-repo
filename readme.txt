@@ -1,3 +1,3 @@
-second line
+first line
 changed line
 
