@@ -1,3 +1,0 @@
-first line
-changed line
-
